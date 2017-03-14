@@ -28,3 +28,13 @@
 *.out
 *.app
 *.VC.VC.opendb
+*.ilk
+*.pdb
+*.vcxproj.user
+*.idb
+*.obj
+*.log
+*.suo
+*.tlog
+*.VC.db
+Debug/
