@@ -1,5 +1,6 @@
-﻿  main.cpp
-  CompilerFactory.cpp
+﻿  CompilerFactory.cpp
+c:\2017\git\design pattern\abstract factory\compilerfactory.cpp(10): error C2600: 'CompilerFactory::~CompilerFactory': cannot define a compiler-generated special member function (must be declared in the class first)
   Generating Code...
-  Abstract Factory.vcxproj -> C:\2017\git\Design Pattern\Debug\Abstract Factory.exe
-  Abstract Factory.vcxproj -> C:\2017\git\Design Pattern\Debug\Abstract Factory.pdb (Full PDB)
+  Compiling...
+  main.cpp
+  Generating Code...
